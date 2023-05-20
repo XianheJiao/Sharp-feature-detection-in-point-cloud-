@@ -8,4 +8,9 @@ pcl 1.12.0
 tensorflow=2.3
 python==3.6
 numpy==1.19.2
-tensorflow==2.4.0
+tensorflow==2.4.0.
+
+
+Step1:Calculate normal direction
+MPFS/
+
