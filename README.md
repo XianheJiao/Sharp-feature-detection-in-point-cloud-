@@ -12,5 +12,14 @@ tensorflow==2.4.0.
 
 
 Step1:Calculate normal direction
-MPFS/
+
+MPFS/RUN.m
+
+Step2:Calculate Discrete Intrinsic Neighbor Detection
+
+DIND/linjie.cpp
+
+Step3:Calculate sharp feature points
+
+MSL-Net/MSL-Net.py
 
