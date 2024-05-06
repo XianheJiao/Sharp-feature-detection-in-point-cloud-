@@ -22,7 +22,7 @@ for k40Path in findAllFile(k40Base):
     os.remove(k40Path)
 
 #首先调用exe程序，计算内蕴形状描述符，并将输出结果暂时保存在40文件夹中
-exePath=r'pcl.exe'
+exePath=r'IntrisicNeighbor.exe'
 os.system(exePath)
 
 #接下来利用神经网络提取尖锐特征

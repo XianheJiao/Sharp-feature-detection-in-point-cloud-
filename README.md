@@ -18,11 +18,13 @@ sklearn，
 
 open3d
 
-如果要使用内蕴邻域源代码：
+如果要使用内蕴邻域源代码MSLNet/code/second/IntrisicNeighbor.cpp需要安装：
 
 visual studio 2019，
 
 pcl 1.12.0 
+
+
 
 程序的输入：txt格式的点云，放在input文件夹中（使用WriteName.py可以快速将名字统一到test_all.txt，便于后续使用）
 
